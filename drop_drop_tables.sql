@@ -1,0 +1,29 @@
+drop table tb_cid;
+drop table tb_componente_rede;
+drop table tb_descricao;
+drop table tb_descricao_detalhe;
+drop table tb_detalhe;
+drop table tb_financiamento;
+drop table tb_forma_organizacao;
+drop table tb_grupo;
+drop table tb_grupo_habilitacao;
+drop table tb_habilitacao;
+drop table tb_modalidade;
+drop table tb_ocupacao;
+drop table tb_procedimento;
+drop table tb_rede_atencao;
+drop table tb_registro;
+drop table tb_regra_condicionada;
+drop table tb_renases;
+drop table tb_rubrica;
+drop table tb_servico;
+drop table tb_servico_classificacao;
+drop table tb_sia_sih;
+drop table tb_sub_grupo;
+drop table tb_tipo_leito;
+drop table tb_tuss;
+
+drop table rl_procedimento_ocupacao;
+drop table rl_procedimento_regra_cond;
+drop table rl_procedimento_sia_sih;
+

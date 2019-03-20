@@ -1,0 +1,16 @@
+env
+env3
+.env
+.env3
+*.pyc
+*.egg
+__pycache__
+dist
+build
+MANIFEST
+coverage
+.coverage
+.eggs
+.vscode/
+db/
+json/
