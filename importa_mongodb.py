@@ -4,11 +4,11 @@ import sys
 import os
 import csv
 import json
+import pymongo
 
 current_dir = os.getcwd()
 tables_dir = os.path.join(current_dir, 'Sigtap')
 layouts_dir = os.path.join(current_dir, 'Sigtap', 'layout')
-json_dir = os.path.join(current_dir, 'Sigtap', 'json')
 
 
 def read_layout_file(file_name):
@@ -18,13 +18,17 @@ def read_layout_file(file_name):
 
 
 if __name__ == "__main__":
+    # client = pymongo.MongoClient('mongodb://localhost:27017/')
+    client = pymongo.MongoClient('mongodb+srv://jwestarb:xof6dM1akIk0bOnO@cluster0-4rg30.gcp.mongodb.net/week10?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true')
+    db = client.sigtap
+    
     files = [f for f in os.listdir(tables_dir)]
 
     for file in files:
         if file.endswith('.txt'):
             filename = os.path.join(tables_dir, file)
             filename_noext = file[:-4]
-            print('Importando o arquivo: {}'.format(filename))
+            # print('Importando o arquivo: {}'.format(filename))
             try:
                 f = open(filename, 'r', encoding='iso-8859-1')
             except IOError as ex:
@@ -32,19 +36,12 @@ if __name__ == "__main__":
                 print('Não foi possivel abrir o arquivo {}'.format(filename))
                 sys.exit(-1)
 
-            try:
-                jsonfile = open(os.path.join(json_dir, '{}.json'.format(
-                    filename_noext)), 'w', encoding='utf-8')
-            except IOError as ex:
-                print(ex)
-                print('Não foi possivel criar o arquivo {}'.format(filename_noext))
-                sys.exit(-1)
-
             file_layout = os.path.join(
                 layouts_dir, '{}_layout.txt'.format(filename_noext))
-            print('Arquivo de Layout: {}'.format(file_layout))
+            # print('Arquivo de Layout: {}'.format(file_layout))
 
-            json_out = {filename_noext: list()}
+            json_out = list()
+            collection = db[filename_noext]            
 
             for linha in f.readlines():
                 reg = dict()
@@ -54,9 +51,11 @@ if __name__ == "__main__":
                     fim = int(row['Fim'])
                     reg[row['Coluna'].lower()] = linha[inicio:fim].strip()
 
-                json_out[filename_noext].append(reg)
-
-            json.dump(json_out, jsonfile, sort_keys=False,
-                      indent=2, separators=(',', ': '), ensure_ascii=False)
-            f.close()
-            jsonfile.close()
+                json_out.append(reg)
+            if (len(json_out) > 0):
+                result = collection.insert_many(json_out)
+                print('{} - inseridos: {} registros.'.format(filename_noext, len(result.inserted_ids)))
+            
+            f.close()  
+    
+    client.close()          

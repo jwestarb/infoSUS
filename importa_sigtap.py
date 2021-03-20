@@ -57,12 +57,12 @@ if __name__ == '__main__':
 
     try:
         conn = psycopg2.connect(
-            "host=localhost dbname=infoSUS user=sigtap password=secret")
+            "host=localhost dbname=sigtap user=postgres password=docker")
         #conn = sqlite3.connect('sigtap.db')
     except psycopg2.Error as ex:
         print("Erro na conexão com o Banco de Dados")
 
-    arquivos = [f for f in os.listdir(diretorio)]
+    arquivos = [f for f in os.listdir(diretorio) if any(f.endswith(ext) for ext in ['txt'])]
 
     for arquivo in arquivos:
 
@@ -74,7 +74,7 @@ if __name__ == '__main__':
             print("Não foi possivel abrir o arquivo %s" % arquivo)
 
         cur = conn.cursor()
-        cur.execute("set search_path to sigtap")
+        # cur.execute("set search_path to sigtap")
 
         tabela = os.path.splitext(os.path.basename(arquivo))[0]
 

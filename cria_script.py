@@ -13,14 +13,14 @@ def lookahead(iterable):
     yield last, True
 
 
-files = [f for f in os.listdir('C:\\tmp\\TabUnificada')]
+files = [f for f in os.listdir('.\\Sigtap\\layout')]
 for f in files:
     if f.endswith('_layout.txt'):
         print()
-        with open('C:\\tmp\\TabUnificada\\' + f, newline='') as csvfile:
+        with open('.\\Sigtap\\layout\\' + f, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
             linhas = list(spamreader)[1:]
-            print('create table sigtap.' + f[:-11] + ' (')
+            print('create table ' + f[:-11] + ' (')
             for row, last in lookahead(linhas):
                 if last:
                     print('    ' + row[0] + ' ' + row[4] + "(" + row[1] + ")")

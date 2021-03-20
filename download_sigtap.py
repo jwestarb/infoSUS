@@ -164,7 +164,7 @@ def split_file_info(fileinfo):
 if __name__ == '__main__':
     ftp = jcFtp('ftp2.datasus.gov.br', 'anonymous', 'anon@anon.com')
     ftp.cd('/pub/sistemas/tup/downloads/')
-    ftp.get('TabelaUnificada_201903_v1903011751.zip', 'TabelaUnificada_201903_v1903011751.zip')
+    ftp.get('TabelaUnificada_202103*.zip', 'TabelaUnificada_202103.zip')
     #tamanho = ftp.size('TabelaUnificada_201903_v1903011751.zip')
     #print(tamanho)
     #arqs = ftp.list()

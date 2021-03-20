@@ -14,12 +14,16 @@ except:
 
 print('Buscando Estabelecimento da tabela de resumo...')
 cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-sql = """SELECT a.codcnes codcnes, a.nome nome, a.cnpj cnpj, a.gestao gestao, b.nome municipio ,b.id id_municipio, b.codibge::text codibge, c.sigla sg_estado, c.nome estado
-         FROM   estab_cnes_resumo a, municipio b, estado c
-         where  a.municipio_id = b.id
-         and    b.estado_id = c.id
-         and    a.dt_atualizacao is null
-         order  by a.codcnes"""
+sql = """
+SELECT  a.codcnes codcnes, a.nome nome, a.cnpj cnpj, a.gestao gestao, b.nome municipio ,b.id id_municipio, b.codibge::text codibge, c.sigla sg_estado, c.nome estado
+FROM    estab_cnes_resumo a, 
+        municipio b, 
+        estado c
+where   a.municipio_id = b.id
+and     b.estado_id = c.id
+and     a.dt_atualizacao is null
+order   by a.codcnes
+"""
 
 cur.execute(sql)
 rows = cur.fetchall()
