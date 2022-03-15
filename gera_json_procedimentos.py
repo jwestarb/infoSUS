@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
     try:
         conn = psycopg2.connect(
-            "host=localhost dbname=sigtap user=postgres password=docker")
+            "host=localhost dbname=sigtap user=sigtap password=sigtap")
     except psycopg2.Error as ex:
         print("Erro na conexão com o Banco de Dados")
 

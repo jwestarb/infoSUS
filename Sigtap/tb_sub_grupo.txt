@@ -1,0 +1,59 @@
+0301Consultas / Atendimentos / Acompanhamentos                                                          202104
+0801Ações relacionadas ao estabelecimento                                                               202104
+0201Coleta de material                                                                                  202104
+0101Ações coletivas/individuais em saúde                                                                202104
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202104
+0601Medicamentos de dispensação excepcional                                                             202104
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202104
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202104
+0202Diagnóstico em laboratório clínico                                                                  202104
+0102Vigilância em saúde                                                                                 202104
+0802Ações relacionadas ao atendimento                                                                   202104
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202104
+0602Medicamentos estratégicos                                                                           202104
+0502Avaliação de morte encefálica                                                                       202104
+0402Cirurgia de glândulas endócrinas                                                                    202104
+0302Fisioterapia                                                                                        202104
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202104
+0803Autorização / regulação                                                                             202104
+0603Medicamentos de âmbito hospitalar e urgência                                                        202104
+0403Cirurgia do sistema nervoso central e periférico                                                    202104
+0303Tratamentos clínicos (outras especialidades)                                                        202104
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202104
+0504Processamento de tecidos para transplante                                                           202104
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202104
+0204Diagnóstico por radiologia                                                                          202104
+0604Componente especializado da assistência farmacêutica                                                202104
+0304Tratamento em oncologia                                                                             202104
+0305Tratamento em nefrologia                                                                            202104
+0405Cirurgia do aparelho da visão                                                                       202104
+0205Diagnóstico por ultrasonografia                                                                     202104
+0505Transplante de orgãos, tecidos e células                                                            202104
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202104
+0206Diagnóstico por tomografia                                                                          202104
+0406Cirurgia do aparelho circulatório                                                                   202104
+0306Hemoterapia                                                                                         202104
+0307Tratamentos odontológicos                                                                           202104
+0207Diagnóstico por ressonância magnética                                                               202104
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202104
+0208Diagnóstico por medicina nuclear in vivo                                                            202104
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202104
+0408Cirurgia do sistema osteomuscular                                                                   202104
+0409Cirurgia do aparelho geniturinário                                                                  202104
+0309Terapias especializadas                                                                             202104
+0209Diagnóstico por endoscopia                                                                          202104
+0410Cirurgia de mama                                                                                    202104
+0310Parto e nascimento                                                                                  202104
+0210Diagnóstico por radiologia intervencionista                                                         202104
+0411Cirurgia obstétrica                                                                                 202104
+0211Métodos diagnósticos em especialidades                                                              202104
+0412Cirurgia torácica                                                                                   202104
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202104
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202104
+0413Cirurgia reparadora                                                                                 202104
+0414Bucomaxilofacial                                                                                    202104
+0214Diagnóstico por teste rápido                                                                        202104
+0415Outras cirurgias                                                                                    202104
+0416Cirurgia em oncologia                                                                               202104
+0417Anestesiologia                                                                                      202104
+0418Cirurgia em nefrologia                                                                              202104

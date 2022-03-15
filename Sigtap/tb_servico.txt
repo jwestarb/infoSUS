@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202104
+101Estratégia de Saúde da Família                                                                                          202104
+102Estratégias de Agentes Comunitário de Saúde                                                                             202104
+103Serviço de Atendimento Móvel de Urgências                                                                               202104
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202104
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202104
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202104
+107Serviço de Atenção a Saúde Auditiva                                                                                     202104
+108Serviço de Atenção a Saúde do Trabalhador                                                                               202104
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202104
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202104
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202104
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     202104
+113Serviço de Atenção Domiciliar                                                                                           202104
+114Serviço de Atenção em Saúde Bucal                                                                                       202104
+115Serviço de Atenção Psicossocial                                                                                         202104
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202104
+117Serviço de Cirurgia Reparadora                                                                                          202104
+118Serviço de Cirurgia Torácica                                                                                            202104
+119Serviço de Controle de Tabagismo                                                                                        202104
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202104
+121Diagnóstico por Imagem                                                                                                  202104
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202104
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202104
+124Serviço de Endocrinologia                                                                                               202104
+125Serviço de Farmácia                                                                                                     202104
+126Serviço de Fisioterapia                                                                                                 202104
+127Serviço de Atenção à Obesidade                                                                                          202104
+128Serviço de Hemoterapia                                                                                                  202104
+129Servico de Laboratório de Histocompatibilidade                                                                          202104
+130Atenção à Doença Renal Crônica                                                                                          202104
+131Serviço de Oftalmologia                                                                                                 202104
+132Serviço de Oncologia                                                                                                    202104
+133Serviço de Pneumologia                                                                                                  202104
+134Serviço de Práticas Integrativas e Complementares                                                                       202104
+135Serviço de Reabilitação                                                                                                 202104
+136Serviço de Suporte Nutricional                                                                                          202104
+137Serviço de Telemedicina                                                                                                 202104
+138Serviço de Traumato-Ortopedia                                                                                           202104
+139Serviço de Triagem Neonatal                                                                                             202104
+140Serviço de Urgência e Emergência                                                                                        202104
+141Serviço de Vigilância em Saúde                                                                                          202104
+142Serviço de Endoscopia                                                                                                   202104
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202104
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202104
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202104
+146Serviço de Videolaparoscopia                                                                                            202104
+147Serviço de Apoio a Saúde da Família                                                                                     202104
+148Hospital-Dia                                                                                                            202104
+149Transplante                                                                                                             202104
+150Cirurgia Vascular                                                                                                       202104
+151Medicina Nuclear                                                                                                        202104
+152Atenção à Saúde da População Indígena                                                                                   202104
+153Atenção Especializada no Processo Transexualizador                                                                      202104
+154Serviço de Banco de Tecidos                                                                                             202104
+155Serviço de Traumatologia  Ortopedia                                                                                     202104
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      202104
+157Serviço de Laboratorio de Protese Dentaria                                                                              202104
+158Serviço de Atenção Integral em Hanseniase                                                                               202104
+159Atenção Primária                                                                                                        202104
+160Teleconsultoria                                                                                                         202104
+161Consultório na Rua                                                                                                      202104
+162Serviço de Terapia Intensiva                                                                                            202104
+163Serviço de Cuidados Intermediários                                                                                      202104
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202104
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202104
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202104
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202104
+168Atenção Às Pessoas com Doenças Raras                                                                                    202104
+169Serviço de Atenção em Urologia                                                                                          202104
+170Comissões e Comitês                                                                                                     202104
+173Logística de Imunobiológicos                                                                                            202104
+174Imunização                                                                                                              202104

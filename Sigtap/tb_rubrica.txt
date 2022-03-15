@@ -1,0 +1,23 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202104
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202104
+040017Nefrologia                                                                                          202104
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202104
+040028Outras cirurgias plásticas/reparadoras                                                              202104
+040030Sequenciais                                                                                         202104
+040032Transplantes de orgãos, tecidos e células                                                           202104
+040033Medicamentos para transplante                                                                       202104
+040038OPM para transplantes                                                                               202104
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202104
+040044Redesignação e Acompanhamento                                                                       202104
+040049Implementar Cirg. CV Pediátrica                                                                     202104
+040055Transplante - Histocompatibilidade                                                                  202104
+040062Doenças Raras                                                                                       202104
+040063Cadeiras de Rodas                                                                                   202104
+040065Medicamentos em Urgência                                                                            202104
+040066Cirurgias Eletivas - Componente Único                                                               202104
+040067Atenção Especializada em Saúde Auditiva                                                             202104
+040068Terapias Especializadas em Angiologia                                                               202104
+040069Tratamento de Doença Macular                                                                        202104
+040070OPME Não Relacionados ao Ato Cirúrgico                                                              202104
+040071Diagnóstico/tratamento em oncologia                                                                 202104
+040072Diagnóstico de trombofilia em gestante                                                              202104

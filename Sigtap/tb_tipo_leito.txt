@@ -1,0 +1,41 @@
+01Cirúrgico                                                   202104
+02Obstétricos                                                 202104
+03Clínico                                                     202104
+04Crônicos                                                    202104
+05Psiquiatria                                                 202104
+06Pneumologia Sanitária (Tisiologia)                          202104
+07Pediátricos                                                 202104
+08Reabilitação                                                202104
+09Leito Dia / Cirúrgicos                                      202104
+10Leito Dia / Aids                                            202104
+11Leito Dia / Fibrose Cística                                 202104
+12Leito Dia / Intercorrência Pós-Transplante                  202104
+13Leito Dia / Geriatria                                       202104
+14Leito Dia / Saúde Mental                                    202104
+17Estabelecimento Exclusivo UTI SUS                           202104
+51UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19    202104
+52UTI II PEDIATRICO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19202104
+65Unidade Intermediária Neonatal                              202104
+74UTI I                                                       202104
+75UTI Adulto II                                               202104
+76UTI Adulto III                                              202104
+77UTI Infantil I                                              202104
+78UTI Infantil II                                             202104
+79UTI Infantil III                                            202104
+80UTI Neonatal I                                              202104
+81UTI Neonatal II                                             202104
+82UTI Neonatal III                                            202104
+83UTI Queimados                                               202104
+84Acolhimento Noturno                                         202104
+85UTI Coronariana-UCO tipo II                                 202104
+86UTI Coronariana-UCO tipo III                                202104
+87Saúde Mental (Clínico)                                      202104
+88Queimado Adulto (Clínico)                                   202104
+89Queimado Pediátrico (Clínico)                               202104
+90Queimado Adulto (Cirúrgico)                                 202104
+91Queimado Pediátrico (Cirúrgico)                             202104
+92UCI Unidade de Cuidados Intermediarios Neonatal Convencional202104
+93UCI Unidade de Cuidados Intermediarios Neonatal Canguru     202104
+94UCI Unidade de Cuidados Intermediarios Pediatrico           202104
+95UCI Unidade de Cuidados Intermediarios Adulto               202104
+96Suporte Ventilatório Pulmonar-COVID-19                      202104

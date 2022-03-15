@@ -1,0 +1,411 @@
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202104
+166001Água de Consumo                                                                                                                                       202104
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202104
+168001Atenção Especializada Em Doenças Raras                                                                                                                202104
+169001Urologia em Geral                                                                                                                                     202104
+170001Núcleo de Segurança do Paciente                                                                                                                       202104
+173001Recebimento e Inspeção                                                                                                                                202104
+174001Indivíduos em Geral                                                                                                                                   202104
+100001Atendimento em presídio até 100 presos                                                                                                                202104
+101001Saúde da família                                                                                                                                      202104
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202104
+103001Ambulância de transporte                                                                                                                              202104
+104001Central de Regulação de Internações Hospitalares                                                                                                      202104
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202104
+106001Testagem e aconselhamento                                                                                                                             202104
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             202104
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    202104
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202104
+110001Atenção à infertilidade                                                                                                                               202104
+111001Diagnóstico e tratamento                                                                                                                              202104
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         202104
+113001Assitência Domiciliar                                                                                                                                 202104
+114001Dentística                                                                                                                                            202104
+115001Residência terapêutica em saúde mental                                                                                                                202104
+116001Eletrofisiologia                                                                                                                                      202104
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202104
+118001Cirurgia torácica                                                                                                                                     202104
+119001Abordagem e tratamento do fumante                                                                                                                     202104
+120001Exames anatomopatológicos                                                                                                                             202104
+121001Radiologia                                                                                                                                            202104
+122001Teste Ergométrico                                                                                                                                     202104
+123001OPM auxiliares de locomoção                                                                                                                           202104
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202104
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202104
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202104
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202104
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202104
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202104
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202104
+131001Diagnóstico em oftalmologia                                                                                                                           202104
+132001Oncologia pediátrica                                                                                                                                  202104
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202104
+134001Acupuntura                                                                                                                                            202104
+135001Reabilitação Visual                                                                                                                                   202104
+136001Enteral                                                                                                                                               202104
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202104
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202104
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202104
+141001Vigilância epidemiológica                                                                                                                             202104
+142001Do aparelho digestivo                                                                                                                                 202104
+143001Transporte terrestre                                                                                                                                  202104
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202104
+145001Exames Bioquimicos                                                                                                                                    202104
+146001Diagnóstica                                                                                                                                           202104
+147001NASF 1                                                                                                                                                202104
+148001Saúde mental                                                                                                                                          202104
+149001Rim                                                                                                                                                   202104
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202104
+151001Medicina nuclear in vivo                                                                                                                              202104
+152001Atenção Básica à Populações Indígenas                                                                                                                 202104
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202104
+154001Banco de valvula cardiaca humana                                                                                                                      202104
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202104
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      202104
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202104
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202104
+159001Atenção Primária                                                                                                                                      202104
+160001Teleconsultoria Assíncrona                                                                                                                            202104
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202104
+162001ADULTO                                                                                                                                                202104
+163001NEONATAL CONVENCIONAL                                                                                                                                 202104
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            202104
+100002Atendimento em manicômio até 100 presos                                                                                                               202104
+174002Grupos Especiais                                                                                                                                      202104
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202104
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202104
+104002Cental de Regulação de Consultas e Exames                                                                                                             202104
+105002Coluna e nervos periféricos                                                                                                                           202104
+106002Diagnóstico e tratamento                                                                                                                              202104
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              202104
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202104
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202104
+110002Contracepção clínica                                                                                                                                  202104
+111002Tratamento multidrogas resistentes                                                                                                                    202104
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202104
+113002Internação Domiciliar                                                                                                                                 202104
+114002Endodontia                                                                                                                                            202104
+115002Atendimento psicossocial                                                                                                                              202104
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202104
+117002Tratamento em queimados                                                                                                                               202104
+120002Exames citopatológicos                                                                                                                                202104
+121002Ultra-sonografia                                                                                                                                      202104
+122002Teste de Holter                                                                                                                                       202104
+123002OPM ortopédicas                                                                                                                                       202104
+124002Cirurgia de glândulas endócrinas                                                                                                                      202104
+125002Farmácia Popular                                                                                                                                      202104
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202104
+128002Diagnóstico em hemoterapia                                                                                                                            202104
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202104
+131002Tratamento clínico do aparelho da visão                                                                                                               202104
+132002Hematologia                                                                                                                                           202104
+133002Diagnóstico em Pneumologia                                                                                                                            202104
+134002Fitoterapia                                                                                                                                           202104
+135002Reabilitação Intelectual                                                                                                                              202104
+136002Enteral/Parenteral                                                                                                                                    202104
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202104
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202104
+141002Vigilância sanitária                                                                                                                                  202104
+142002Do aparelho respiratório                                                                                                                              202104
+143002Transporte aéreo                                                                                                                                      202104
+145002Exames hematológicos e hemostasia                                                                                                                     202104
+146002Cirúrgica                                                                                                                                             202104
+147002NASF 2                                                                                                                                                202104
+148002AIDS                                                                                                                                                  202104
+149002Medula óssea                                                                                                                                          202104
+150002Fístula arteriovenosa com enxerto                                                                                                                     202104
+151002Medicina nuclear in vitro                                                                                                                             202104
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202104
+154002Banco de tecido musculo esqueletico                                                                                                                   202104
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202104
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     202104
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202104
+159002Atenção Básica com Saúde Bucal                                                                                                                        202104
+160002Teleconsultoria Síncrona                                                                                                                              202104
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202104
+162002NEONATAL                                                                                                                                              202104
+163002NEONATAL CANGURU                                                                                                                                      202104
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 202104
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202104
+166002Água de Ambiental                                                                                                                                     202104
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202104
+168002Referência em Doenças Raras                                                                                                                           202104
+169002Litotripsia                                                                                                                                           202104
+173002Armazenamento e Controle                                                                                                                              202104
+101002Saúde bucal MI                                                                                                                                        202104
+100003Atendimento em presídio acima de 100 presos                                                                                                           202104
+101003Saúde bucal MII                                                                                                                                       202104
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202104
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202104
+104003Central de Regulação de Urgências                                                                                                                     202104
+105003Tumores do sistema nervoso                                                                                                                            202104
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202104
+107003Terapia fonoaudiológica                                                                                                                               202104
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            202104
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202104
+110003Laqueadura                                                                                                                                            202104
+112003Parto em gestação de risco habitual                                                                                                                   202104
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202104
+114003Periodontia clínica                                                                                                                                   202104
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202104
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202104
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202104
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202104
+121003Tomografia computadorizada                                                                                                                            202104
+122003Exame Eletrocardiográfico                                                                                                                             202104
+123003OPM auditivas                                                                                                                                         202104
+125003Farmácia com manipulação homeopática                                                                                                                  202104
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202104
+128003Procedimentos especiais em hemoterapia                                                                                                                202104
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202104
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202104
+132003Oncologia clínica                                                                                                                                     202104
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202104
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202104
+135003Reabilitação Física                                                                                                                                   202104
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202104
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202104
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202104
+141003Vigilância ambiental                                                                                                                                  202104
+142003Do aparelho urinário                                                                                                                                  202104
+143003Transporte marítimo                                                                                                                                   202104
+145003Exames sorológicos e imunológicos                                                                                                                     202104
+147003NASF Intermunicipal                                                                                                                                   202104
+148003Geriátrico                                                                                                                                            202104
+149003Coração                                                                                                                                               202104
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202104
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202104
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202104
+159003Academia da Saúde                                                                                                                                     202104
+160003Segunda Opinião Formativa                                                                                                                             202104
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202104
+162003PEDIÁTRICO                                                                                                                                            202104
+163003PEDIÁTRICO                                                                                                                                            202104
+164003Dispensação de OPM Ortopédica                                                                                                                         202104
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202104
+166003Água de Hemodiálise                                                                                                                                   202104
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202104
+173003Distribuição                                                                                                                                          202104
+152004Saneamento a Populações Indígenas                                                                                                                     202104
+159004Estratégia de Saúde da Família                                                                                                                        202104
+162004QUEIMADOS                                                                                                                                             202104
+163004ADULTO                                                                                                                                                202104
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202104
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202104
+166004Água Mineral                                                                                                                                          202104
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202104
+173004Transporte                                                                                                                                            202104
+125004Dispensação de medicamentos estratégicos                                                                                                              202104
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202104
+128004Medicina transfusional                                                                                                                                202104
+130004Tratamento Nefrologia em Geral                                                                                                                        202104
+131004Projeto Olhar Brasil                                                                                                                                  202104
+132004Radioterapia                                                                                                                                          202104
+134004Práticas Corpo-mente                                                                                                                                  202104
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202104
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202104
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202104
+140004Estabilização de paciente crítico/grave                                                                                                               202104
+141004Núcleo de vigilância hospitalar                                                                                                                       202104
+142004Do aparelho ginecológico                                                                                                                              202104
+145004Exames coprológicos                                                                                                                                   202104
+147004NASF 3                                                                                                                                                202104
+148004Fibrose cística                                                                                                                                       202104
+149004Pulmão                                                                                                                                                202104
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202104
+101004Saúde da Família para a População Ribeirinha                                                                                                          202104
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202104
+105004Neurocirurgia vascular                                                                                                                                202104
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202104
+107004Diagnóstico em audiologia/otologia                                                                                                                    202104
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202104
+110004Vasectomia                                                                                                                                            202104
+112004Parto em gestação de alto risco                                                                                                                       202104
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202104
+114004Moldagem/Manutenção                                                                                                                                   202104
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202104
+116004Cirurgia vascular                                                                                                                                     202104
+121004Ressonância magnética                                                                                                                                 202104
+122004Exame Eletroencefalográfico                                                                                                                           202104
+123004OPM oftalmológicas                                                                                                                                    202104
+152005Atenção Especializada a Populações Indígenas                                                                                                          202104
+122005Teste Ergométrico por Telemedicina                                                                                                                    202104
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202104
+164005Dispensação de OPM Auditiva                                                                                                                           202104
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202104
+166005Alimentos                                                                                                                                             202104
+123005OPM em gastroenterologia                                                                                                                              202104
+125005Dispensação de medicamentos básicos                                                                                                                   202104
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202104
+130005Tratamento Diálitico Peritonial                                                                                                                       202104
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202104
+132005Oncologia cirúrgica                                                                                                                                   202104
+134005Homeopatia                                                                                                                                            202104
+135005Reabiliatação Auditiva                                                                                                                                202104
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202104
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202104
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202104
+145005Exames de uroanálise                                                                                                                                  202104
+148005Cirúrgico / Diagnóstico                                                                                                                               202104
+149005Córnea / Esclera                                                                                                                                      202104
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202104
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202104
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202104
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202104
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202104
+107005Implante Coclear                                                                                                                                      202104
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202104
+112005Centro de parto normal                                                                                                                                202104
+113005Equipe de cuidados domiciliares                                                                                                                       202104
+114005Cirurgia oral                                                                                                                                         202104
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202104
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202104
+159005Saúde Bucal                                                                                                                                           202104
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202104
+122006Teste Holter por Telemedicina                                                                                                                         202104
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202104
+166006Células, Tecidos e Órgãos                                                                                                                             202104
+123006OPM em urologia                                                                                                                                       202104
+125006Farmácia Hospitalar                                                                                                                                   202104
+126006Assistência fisioterapêutica em queimados                                                                                                             202104
+130006Tratamento em DRC                                                                                                                                     202104
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202104
+134006Termalismo/Crenoterapia                                                                                                                               202104
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202104
+140006Pronto Atendimento Clínico                                                                                                                            202104
+145006Exames hormonais                                                                                                                                      202104
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202104
+149006Fígado                                                                                                                                                202104
+101006Saúde da Família Fluvial                                                                                                                              202104
+103006Veículos de intervenção rápida                                                                                                                        202104
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202104
+105006Investigação e cirurgia de epilepsia                                                                                                                  202104
+107006Triagem Auditiva Neonatal                                                                                                                             202104
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202104
+114006Cirurgia buco-maxilo-facial                                                                                                                           202104
+115006UA Adulto                                                                                                                                             202104
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202104
+121006Radiologia intervencionista                                                                                                                           202104
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202104
+159007Atenção Primária para População Ribeirinha                                                                                                            202104
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202104
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202104
+166007Medicamentos                                                                                                                                          202104
+123007OPM em odontologia                                                                                                                                    202104
+125007Farmácia Viva                                                                                                                                         202104
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202104
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202104
+134007Antroposofia Aplicada à Saúde                                                                                                                         202104
+135007Oficina Ortopédica Fixa                                                                                                                               202104
+140007Pronto Atendimento Pediátrico                                                                                                                         202104
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202104
+149007Pâncreas                                                                                                                                              202104
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202104
+103007Outros veículos                                                                                                                                       202104
+104007Regulação Nacional de Alta Complexidade                                                                                                               202104
+105007Tratamento endovascular                                                                                                                               202104
+107007Diagnóstico em Audiologia/Otologia por Telemedicina                                                                                                   202104
+114007Atendimento à pessoa com deficiência                                                                                                                  202104
+115007UA Infantojuvenil                                                                                                                                     202104
+116007Cardiologia Clínica                                                                                                                                   202104
+121007Radiologia por telemedicina                                                                                                                           202104
+164007Dispensação de OPM Oftalmológica                                                                                                                      202104
+152008Hospitalidade Indígena                                                                                                                                202104
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202104
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           202104
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202104
+166008Saneantes Domissanitários                                                                                                                             202104
+123008OPM buco-maxilo-facial                                                                                                                                202104
+126008Diagnóstico cinético funcional                                                                                                                        202104
+134008Práticas Expressivas                                                                                                                                  202104
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              202104
+140008Pronto Atendimento Obstétrico                                                                                                                         202104
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202104
+149008Retirada de orgãos                                                                                                                                    202104
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202104
+103008Ambulância de resgate                                                                                                                                 202104
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202104
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202104
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202104
+115008Unidade de Atenção em Regime Residencial                                                                                                              202104
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202104
+121008Ultra-sonografia por telemedicina                                                                                                                     202104
+159008Consultório na Rua                                                                                                                                    202104
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202104
+122009Exame Eletroneuromiografia                                                                                                                            202104
+164009Substitução/Troca de OPM                                                                                                                              202104
+166009Produtos para a Saúde                                                                                                                                 202104
+123009Substituição/Troca em órteses/próteses                                                                                                                202104
+134009Ayurveda                                                                                                                                              202104
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202104
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202104
+145009Exames microbiológicos                                                                                                                                202104
+149009Pele                                                                                                                                                  202104
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202104
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202104
+105009Polissonografia                                                                                                                                       202104
+121009Tomografia computadorizada por telemedicina                                                                                                           202104
+159009Atenção Primária para População Prisional                                                                                                             202104
+134010Práticas Naturais                                                                                                                                     202104
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202104
+123010OPM em queimados                                                                                                                                      202104
+135010Atenção Fonoaudiológica                                                                                                                               202104
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202104
+103010Motolância                                                                                                                                            202104
+164010OPM em gastroenterologia                                                                                                                              202104
+149010Válvulas cardíacas                                                                                                                                    202104
+121010Ressonância magnética por telemedicina                                                                                                                202104
+166010Cosméticos                                                                                                                                            202104
+145010Exames em outros líquidos biológicos                                                                                                                  202104
+140010Pronto Atendimento Oftalmológico                                                                                                                      202104
+122010Exame videoeletroencefalografia                                                                                                                       202104
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202104
+123011OPM em nefrologia                                                                                                                                     202104
+122011Potenciais Evocados                                                                                                                                   202104
+121011Radiologia intervencionista por telemedicina                                                                                                          202104
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202104
+101011ESF Transitória                                                                                                                                       202104
+166011Desinfestantes                                                                                                                                        202104
+164011OPM em Urologia                                                                                                                                       202104
+149011Osteocondroligamentos                                                                                                                                 202104
+145011Exames de genética                                                                                                                                    202104
+140011Pronto Atendimento Odontológico                                                                                                                       202104
+135011Atenção Fisioterapeutica                                                                                                                              202104
+134011Práticas Manuais                                                                                                                                      202104
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202104
+123012OPM - Projeto Olhar Brasil                                                                                                                            202104
+103012Equipe Aeromédico                                                                                                                                     202104
+145012Exames para triagem neonatal                                                                                                                          202104
+121012Mamografia                                                                                                                                            202104
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202104
+134012Práticas Psicodinâmicas                                                                                                                               202104
+122012Potenciais Evocados por Telemedicina                                                                                                                  202104
+140012Pronto Socorro Pediátrico                                                                                                                             202104
+166012Imunobiológicos                                                                                                                                       202104
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202104
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202104
+101013ESB MI                                                                                                                                                202104
+140013Pronto Socorro Obstétrico                                                                                                                             202104
+166013Insumos Farmacêuticos                                                                                                                                 202104
+149013Contagem endotelial corneana                                                                                                                          202104
+121013Mamografia por Telemedicina                                                                                                                           202104
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202104
+145013Exames imunohematológicos                                                                                                                             202104
+134013Ozônioterapia                                                                                                                                         202104
+149014Acompanhamento de paciente transplantado                                                                                                              202104
+166014Material Biológico                                                                                                                                    202104
+140014Pronto Socorro Cardiovascular                                                                                                                         202104
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202104
+134014Aromaterapia                                                                                                                                          202104
+101014ESB MII                                                                                                                                               202104
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202104
+166015Sangue e Hemoderivados                                                                                                                                202104
+134015Imposição de Mãos                                                                                                                                     202104
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202104
+149016Retirada de globo ocular humano para transplante                                                                                                      202104
+166016Surtos de Toxinfecção                                                                                                                                 202104
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202104
+166017Diversos                                                                                                                                              202104
+140017Pronto Socorro Odontológico                                                                                                                           202104
+140018Pronto Socorro Oftalmológico                                                                                                                          202104
+140019Pronto Socorro Geral/Clínico                                                                                                                          202104

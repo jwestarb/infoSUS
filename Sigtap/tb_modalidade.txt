@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        202104
+02Hospitalar                                                                                          202104
+03Hospital Dia                                                                                        202104
+06Atenção Domiciliar                                                                                  202104

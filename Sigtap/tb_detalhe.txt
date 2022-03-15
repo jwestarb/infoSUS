@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           202104
+003Admite longa permanência                                                                            202104
+004Admite permanência à maior                                                                          202104
+005Admite liberação de quantidade na AIH                                                               202104
+006CNRAC                                                                                               202104
+007Permanência por dia                                                                                 202104
+008Não permite mudança de procedimento                                                                 202104
+009Exige CNS                                                                                           202104
+011Permite alta direta de UTI                                                                          202104
+012Exige idade no BPA (Consolidado)                                                                    202104
+013Verifica habilitação de terceiro                                                                    202104
+014Admite APAC de Continuidade                                                                         202104
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202104
+017Exige Informação da OPM                                                                             202104
+020Monitoramento do CEO                                                                                202104
+021Não Exige CBO                                                                                       202104
+022Exige registro na APAC de dados complementares                                                      202104
+023Registro no SISCOLO                                                                                 202104
+024Registro no SISPRENATAL                                                                             202104
+025Registro no SISMAMA                                                                                 202104
+026Registro de Procedimentos Secundário Compativel                                                     202104
+029Admite período maior para a apresentação                                                            202104
+033APAC com validade fixa de 03 competências                                                           202104
+034Não exige CNS                                                                                       202104
+036Exige Autorização                                                                                   202104
+037Exige CNPJ do Fornecedor                                                                            202104
+038Exige Serviço/Classificação                                                                         202104
+040Registro no SISCAN                                                                                  202104
+041APAC com validade fixa de 12 competências                                                           202104
+042Não Admite Liberação de Crítica de Idade                                                            202104
+043Exige registro de CID de causas associadas                                                          202104
+044Cirurgias Eletivas                                                                                  202104
+045Diárias de Leitos Complementares                                                                    202104
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202104
+047Autorização com limite máximo de 6 meses.                                                           202104
+048Exige CID                                                                                           202104
+049Permite Informação de Equipe Cirúrgica                                                              202104
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     202104
